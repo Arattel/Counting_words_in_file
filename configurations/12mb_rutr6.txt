@@ -1,0 +1,4 @@
+infile="test_files/12mb_ru.txt"
+out_by_a="out/12mb_ru_6_by_a.txt"
+out_by_n="out/12mb_ru_6_by_n.txt"
+threads=6

@@ -1,0 +1,4 @@
+infile="test_files/31mb_fin.txt"
+out_by_a="out/31mb_fin_8_by_a.txt"
+out_by_n="out/31mb_fin_8_by_n.txt"
+threads=8

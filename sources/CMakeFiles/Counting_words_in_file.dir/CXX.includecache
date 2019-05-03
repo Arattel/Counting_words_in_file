@@ -1,0 +1,202 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/arattel/UCU/IV/Computer Systems Architecture/Syzonov_counting_words_in_file/sources/config.cpp
+config.h
+/home/arattel/UCU/IV/Computer Systems Architecture/Syzonov_counting_words_in_file/sources/config.h
+
+/home/arattel/UCU/IV/Computer Systems Architecture/Syzonov_counting_words_in_file/sources/config.h
+string
+-
+iostream
+-
+fstream
+-
+algorithm
+-
+vector
+-
+
+/home/arattel/UCU/IV/Computer Systems Architecture/Syzonov_counting_words_in_file/sources/count_words.cpp
+count_words.h
+/home/arattel/UCU/IV/Computer Systems Architecture/Syzonov_counting_words_in_file/sources/count_words.h
+
+/home/arattel/UCU/IV/Computer Systems Architecture/Syzonov_counting_words_in_file/sources/count_words.h
+string
+-
+vector
+-
+map
+-
+iostream
+-
+
+/home/arattel/UCU/IV/Computer Systems Architecture/Syzonov_counting_words_in_file/sources/decompress_list.cpp
+decompress_list.h
+/home/arattel/UCU/IV/Computer Systems Architecture/Syzonov_counting_words_in_file/sources/decompress_list.h
+
+/home/arattel/UCU/IV/Computer Systems Architecture/Syzonov_counting_words_in_file/sources/decompress_list.h
+unzip.h
+/home/arattel/UCU/IV/Computer Systems Architecture/Syzonov_counting_words_in_file/sources/unzip.h
+vector
+-
+string
+-
+boost/filesystem.hpp
+-
+
+/home/arattel/UCU/IV/Computer Systems Architecture/Syzonov_counting_words_in_file/sources/input.cpp
+boost/algorithm/string/predicate.hpp
+-
+input.h
+/home/arattel/UCU/IV/Computer Systems Architecture/Syzonov_counting_words_in_file/sources/input.h
+
+/home/arattel/UCU/IV/Computer Systems Architecture/Syzonov_counting_words_in_file/sources/input.h
+fstream
+-
+ostream
+-
+iostream
+-
+limits
+-
+boost/locale.hpp
+-
+vector
+-
+boost/algorithm/string/classification.hpp
+-
+
+/home/arattel/UCU/IV/Computer Systems Architecture/Syzonov_counting_words_in_file/sources/main.cpp
+iostream
+-
+vector
+-
+boost/locale.hpp
+-
+count_words.h
+/home/arattel/UCU/IV/Computer Systems Architecture/Syzonov_counting_words_in_file/sources/count_words.h
+output.h
+/home/arattel/UCU/IV/Computer Systems Architecture/Syzonov_counting_words_in_file/sources/output.h
+merge.h
+/home/arattel/UCU/IV/Computer Systems Architecture/Syzonov_counting_words_in_file/sources/merge.h
+parallel.h
+/home/arattel/UCU/IV/Computer Systems Architecture/Syzonov_counting_words_in_file/sources/parallel.h
+input.h
+/home/arattel/UCU/IV/Computer Systems Architecture/Syzonov_counting_words_in_file/sources/input.h
+config.h
+/home/arattel/UCU/IV/Computer Systems Architecture/Syzonov_counting_words_in_file/sources/config.h
+algorithm
+-
+decompress_list.h
+/home/arattel/UCU/IV/Computer Systems Architecture/Syzonov_counting_words_in_file/sources/decompress_list.h
+boost/algorithm/string/predicate.hpp
+-
+
+/home/arattel/UCU/IV/Computer Systems Architecture/Syzonov_counting_words_in_file/sources/merge.cpp
+merge.h
+/home/arattel/UCU/IV/Computer Systems Architecture/Syzonov_counting_words_in_file/sources/merge.h
+
+/home/arattel/UCU/IV/Computer Systems Architecture/Syzonov_counting_words_in_file/sources/merge.h
+map
+-
+string
+-
+vector
+-
+
+/home/arattel/UCU/IV/Computer Systems Architecture/Syzonov_counting_words_in_file/sources/output.cpp
+output.h
+/home/arattel/UCU/IV/Computer Systems Architecture/Syzonov_counting_words_in_file/sources/output.h
+
+/home/arattel/UCU/IV/Computer Systems Architecture/Syzonov_counting_words_in_file/sources/output.h
+map
+-
+fstream
+-
+string
+-
+iostream
+-
+vector
+-
+map
+-
+config.h
+/home/arattel/UCU/IV/Computer Systems Architecture/Syzonov_counting_words_in_file/sources/config.h
+
+/home/arattel/UCU/IV/Computer Systems Architecture/Syzonov_counting_words_in_file/sources/parallel.cpp
+parallel.h
+/home/arattel/UCU/IV/Computer Systems Architecture/Syzonov_counting_words_in_file/sources/parallel.h
+
+/home/arattel/UCU/IV/Computer Systems Architecture/Syzonov_counting_words_in_file/sources/parallel.h
+vector
+-
+map
+-
+count_words.h
+/home/arattel/UCU/IV/Computer Systems Architecture/Syzonov_counting_words_in_file/sources/count_words.h
+thread
+-
+output.h
+/home/arattel/UCU/IV/Computer Systems Architecture/Syzonov_counting_words_in_file/sources/output.h
+merge.h
+/home/arattel/UCU/IV/Computer Systems Architecture/Syzonov_counting_words_in_file/sources/merge.h
+
+/home/arattel/UCU/IV/Computer Systems Architecture/Syzonov_counting_words_in_file/sources/unzip.cpp
+unzip.h
+/home/arattel/UCU/IV/Computer Systems Architecture/Syzonov_counting_words_in_file/sources/unzip.h
+
+/home/arattel/UCU/IV/Computer Systems Architecture/Syzonov_counting_words_in_file/sources/unzip.h
+iostream
+-
+archive.h
+-
+archive_entry.h
+-
+string
+-
+
+/usr/local/include/archive.h
+sys/stat.h
+-
+stddef.h
+-
+stdio.h
+-
+time.h
+-
+stdint.h
+-
+inttypes.h
+-
+unistd.h
+-
+unistd.h
+-
+android_lf.h
+/usr/local/include/android_lf.h
+
+/usr/local/include/archive_entry.h
+sys/types.h
+-
+stddef.h
+-
+stdint.h
+-
+time.h
+-
+windows.h
+-
+unistd.h
+-
+unistd.h
+-
+android_lf.h
+/usr/local/include/android_lf.h
+
